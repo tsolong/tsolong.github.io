@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-558c1626","path":"/guide/install/structure.html","title":"文件结构","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"后端","slug":"后端","link":"#后端","children":[]},{"level":2,"title":"前端","slug":"前端","link":"#前端","children":[]}],"git":{"updatedTime":1711596097000},"filePathRelative":"guide/install/structure.md"}');export{e as data};

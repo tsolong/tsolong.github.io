@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-744166be","path":"/front/components/formType.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1721204991000},"filePathRelative":"front/components/formType.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-19eeda42","path":"/guide/further/mustLearn/changeCore.html","title":"核心类库的替换","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1711596097000},"filePathRelative":"guide/further/mustLearn/changeCore.md"}');export{e as data};

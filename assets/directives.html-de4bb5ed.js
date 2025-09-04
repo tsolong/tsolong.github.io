@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2762dc16","path":"/front/directives.html","title":"内置指令","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"权限指令","slug":"权限指令","link":"#权限指令","children":[]},{"level":2,"title":"角色指令","slug":"角色指令","link":"#角色指令","children":[]}],"git":{"updatedTime":1711596097000},"filePathRelative":"front/directives.md"}');export{e as data};

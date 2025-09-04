@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-8944be06","path":"/front/skin.html","title":"扩展皮肤","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"准备工作","slug":"准备工作","link":"#准备工作","children":[]},{"level":2,"title":"样式范围前缀","slug":"样式范围前缀","link":"#样式范围前缀","children":[]}],"git":{"updatedTime":1711596097000},"filePathRelative":"front/skin.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-04e4c9ab","path":"/guide/start/copyright.html","title":"版权","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"后端版权","slug":"后端版权","link":"#后端版权","children":[]},{"level":2,"title":"前端版权","slug":"前端版权","link":"#前端版权","children":[]}],"git":{"updatedTime":1711596097000},"filePathRelative":"guide/start/copyright.md"}');export{t as data};
